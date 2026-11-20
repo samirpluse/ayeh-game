@@ -1,0 +1,11 @@
+{
+  "name": "سرزمین جادویی کرومی - بازی آیه",
+  "short_name": "بازی آیه",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5eeff",
+  "theme_color": "#7c3aed",
+  "lang": "fa",
+  "dir": "rtl"
+}
