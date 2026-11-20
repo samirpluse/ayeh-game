@@ -1,0 +1,6 @@
+{
+  "appId": "com.ayeh.kuromigame",
+  "appName": "بازی آیه",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
